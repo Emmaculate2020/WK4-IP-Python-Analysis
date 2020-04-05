@@ -8,28 +8,28 @@ The main objective of this project is to identify the most popular hour of the d
 
 ### Steps taken;
 
-$$$$ ** Data Understanding through description and verification of it's quality.
+- Data Understanding through description and verification of it's quality.
 
-$$$$ * Loading of Dataset to Python Database.
+- Loading of Dataset to Python Database.
 
-$$$$ ** Data Cleaning.
+- Data Cleaning.
 
-$$$$ * Data Analysis using Pandas.
+- Data Analysis using Pandas.
 
 ### Tools required for the project;
 
-$$$$ ** Google Colab
+- Google Colab
 
-$$$$ ** Python Basics(Pandas Basics)
+- Python Basics(Pandas Basics)
 
-$$$$ ** Python Library
+- Python Library
 
-$$$$ ** Github
+- Github
 
 ### Known Bugs
 
-$$$$ ** No known bugs.
+- No known bugs.
 
 ### Contact Information in case of any query;
 
-$$$$ Email Address : akotheokongo@gmail.com
+Email Address : akotheokongo@gmail.com
