@@ -2,11 +2,11 @@
 #### Week 4 Independent Project: Python Analysis with Pandas
 #### Analysis by: Emmaculate Okong'o
 
-## Objective of the Project
+### Objective of the Project
 
 ####The main objective of this project is to identify the most popular hour of the day for picking up a shared electric car (Bluecar) in the city of Paris over the month of April 2018 by analysing the Autilib Dataset.
 
-## Steps taken;
+### Steps taken;
 
 $$$$ ** Data Understanding through description and verification of it's quality.
 
@@ -16,7 +16,7 @@ $$$$ ** Data Cleaning.
 
 $$$$ * Data Analysis using Pandas.
 
-$$$$ **Tools required for the project;
+### Tools required for the project;
 
 $$$$ ** Google Colab
 
