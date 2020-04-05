@@ -26,10 +26,10 @@ $$$$ ** Python Library
 
 $$$$ ** Github
 
-$$ **Known Bugs
+### Known Bugs
 
 $$$$ ** No known bugs.
 
-$$ **Contact Information in case of any query;
+### Contact Information in case of any query;
 
 $$$$ Email Address : akotheokongo@gmail.com
